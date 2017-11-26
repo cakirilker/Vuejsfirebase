@@ -1,6 +1,6 @@
 # vuejsfirebase
 
-> A Vue.js project
+> An example Vue.js project that build on Google Firebase.
 
 ## Build Setup
 
